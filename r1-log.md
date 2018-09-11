@@ -12,4 +12,6 @@ day 3 9/10/18
 When it comes to HTML and CSS my attention span is not that great. 
 Finished all of the CSS introduction at freecodecamp. I have a cold. I have a cold.
 
-
+day 4 9/11/18:
+Stil recovering from my cold. I have gotten in about 40 minutes of java script in myfree code camp done. 
+Compound asignments and incrementing number. Hope to hit it again later today.
