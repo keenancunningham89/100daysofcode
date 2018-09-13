@@ -18,3 +18,4 @@ Compound assignments and increment number. Hope to hit it again later today.
 
 day 5   9/12/18
 Manipulating arrays in the PM. JavaScript.
+Functions and scope.
