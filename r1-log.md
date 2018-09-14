@@ -19,3 +19,12 @@ Compound assignments and increment number. Hope to hit it again later today.
 day 5   9/12/18
 Manipulating arrays in the PM. JavaScript.
 Functions and scope. algorithms
+
+day 6 9/13/18:
+JS conditional logic. Bad day
+
+day 7 9/14/18:
+Started my morning off right. Two mile run with my fur bud. After that showered shaved and had some tea. It's time to code.
+9:00AM start time
+
+10:45 AM : Finished with booleans and lots of repitition with decision logic in java. A bit monotonus but I don't mind to much it's bringing up my comfort level more with the language. No time to do stuff.
