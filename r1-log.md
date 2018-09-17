@@ -28,3 +28,9 @@ Started my morning off right. Two mile run with my fur bud. After that showered 
 9:00AM start time
 
 10:45 AM : Finished with booleans and lots of repitition with decision logic in java. A bit monotonus but I don't mind to much it's bringing up my comfort level more with the language. 
+
+day 8 9/15/18
+Arrays manipulating   arrays js
+
+day 9 9/16/18
+arrays objects. js
