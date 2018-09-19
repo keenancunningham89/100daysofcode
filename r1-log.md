@@ -34,3 +34,6 @@ Arrays manipulating   arrays js
 
 day 9 9/16/18
 arrays objects. js
+
+day 10-11 9/17/18-9/18/18
+stuck on  a javascript json problem.
