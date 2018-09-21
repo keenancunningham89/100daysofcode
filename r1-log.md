@@ -41,3 +41,8 @@ stuck on  a javascript json problem.
 day 12 9/19/18
 
 for nested for loops in java script. 
+
+day 13 /9/20/18
+finished nested loops in freecodecamp
+
+day 14 9/21/18
