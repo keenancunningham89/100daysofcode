@@ -46,3 +46,7 @@ day 13 /9/20/18
 finished nested loops in freecodecamp
 
 day 14 9/21/18
+java script while loops
+
+day 15 9/22/18
+skip day birthday
