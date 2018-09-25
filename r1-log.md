@@ -31,7 +31,7 @@ Started my morning off right. Two mile run with my fur bud. After that showered 
 
 day 8 9/15/18
 Arrays manipulating   arrays js
-hg
+
 
 day 9 9/16/18
 arrays objects. js
@@ -51,3 +51,9 @@ java script while loops
 
 day 15 9/22/18
 skip day birthday
+ 
+ day 16/23/18
+ Javascript more loops almost finished with java script basics.
+ 
+ 
+ 
