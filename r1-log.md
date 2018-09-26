@@ -54,6 +54,22 @@ skip day birthday
  
  day 16/23/18
  Javascript more loops almost finished with java script basics.
+  
+  day 17  24/18
+  stuck  on js question
+  
+  day 18 25/ 18
+  
+  for (var x = 0; x < contacts.length; x++){
+    if (contacts[x].firstName === name) {
+        if (contacts[x].hasOwnProperty(prop)) {
+            return contacts[x][prop];
+        } else {
+            return "No such property";
+        }
+    }
+}
+return "No such contact";
  
  
  
