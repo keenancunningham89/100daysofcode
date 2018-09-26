@@ -59,7 +59,7 @@ skip day birthday
   stuck  on js question
   
   day 18 25/ 18
-  I need to do some self study on working with arrays.
+  I need to do some more focused study on working with arrays in js
   
   for (var x = 0; x < contacts.length; x++){
     if (contacts[x].firstName === name) {
