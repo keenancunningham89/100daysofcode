@@ -72,5 +72,7 @@ skip day birthday
 }
 return "No such contact";
  
+ day 19 /26/18
  
+ Java script  basics finished.
  
