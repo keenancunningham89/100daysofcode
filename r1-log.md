@@ -76,3 +76,7 @@ return "No such contact";
  
  Java script  basics finished.
  
+ 
+ day 20 26/18
+ Let and const in javascript.
+ 
