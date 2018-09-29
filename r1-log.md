@@ -77,6 +77,12 @@ return "No such contact";
  Java script  basics finished.
  
  
- day 20 26/18
+ day 20 27/18
  Let and const in javascript.
+ 
+ 28/18
+ skip (birthday celebration)
+ 
+ day 21 29/18:
+ 
  
