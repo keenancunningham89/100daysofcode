@@ -85,4 +85,13 @@ return "No such contact";
  
  day 21 29/18:
  
+ java script objects.
+ 
+ day 22 30/18:
+ Higher order RROW FUNCTIONS..
+ 
+ 
+ day 23 10/1/18:
+ Got stuck on a problem that required that use of map() filter and reduce.
+ 
  
