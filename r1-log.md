@@ -92,6 +92,6 @@ return "No such contact";
  
  
  day 23 10/1/18:
- Got stuck on a problem that required that use of map() filter and reduce.
+ Got stuck on a problem that required that use of map() filter and reduce. I am  going to bounce around from the ES6 section of the javascript course. 
  
  
